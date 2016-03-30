@@ -30,6 +30,9 @@ http://guides.rubyonrails.org/engines.html
 - [论坛系统 - Homeland](https://github.com/rails-engine/homeland)
 - [通知中心- Notifications](https://github.com/rails-engine/notifications)
 - [私信、站内信 - Innbox](https://github.com/rails-engine/innbox)
+- 评论 - Commentable - 多态的方式，适合各种类型的场景
+- 喜欢、赞 - Likeable - 多态的方式，适合各种类型的场景
+- 收藏 - Bookmarkable - 多态的方式，适合各种类型的场景
 - 动态，Timeline
 - 好友、关注
 - 相册
