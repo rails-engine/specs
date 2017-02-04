@@ -30,8 +30,8 @@ http://guides.rubyonrails.org/engines.html
 - [论坛系统 - Homeland](https://github.com/rails-engine/homeland)
 - [通知中心- Notifications](https://github.com/rails-engine/notifications)
 - [私信、站内信 - Innbox](https://github.com/rails-engine/innbox)
-- [评论 - comments](https://github.com/rails-engine/comments) - 多态的方式，适合各种类型的场景
-- [喜欢、赞、收藏、好友、关注等功能 - actionstore](https://github.com/rails-engine/actionstore) - 多态的方式，适合各种类型的场景
+- [评论 - Comments](https://github.com/rails-engine/comments) - 多态的方式，适合各种类型的场景
+- [喜欢、赞、收藏、好友、关注等功能 - ActionStore](https://github.com/rails-engine/actionstore) - 多态的方式，适合各种类型的场景
 - 动态，Timeline
 - 相册
 - Page / CMS 用于线上发布独立页面(例如：关于、隐私)，URL 绑定 / 根目录；
