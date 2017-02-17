@@ -32,6 +32,7 @@ http://guides.rubyonrails.org/engines.html
 - [私信、站内信 - Innbox](https://github.com/rails-engine/innbox)
 - [评论 - Comments](https://github.com/rails-engine/comments) - 多态的方式，适合各种类型的场景
 - [喜欢、赞、收藏、好友、关注等功能 - ActionStore](https://github.com/rails-engine/action-store) - 多态的方式，适合各种类型的场景
+- [异常日志 - ExceptionTrack](https://github.com/rails-engine/exception-track) - 基于 ExceptionNotification 实现，将捕捉到的异常信息保存到数据库，并提供界面浏览。
 - 动态，Timeline
 - 相册
 - Page / CMS 用于线上发布独立页面(例如：关于、隐私)，URL 绑定 / 根目录；
